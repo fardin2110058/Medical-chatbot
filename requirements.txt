@@ -16,7 +16,7 @@ filelock==3.25.2
 Flask==3.1.3
 frozenlist==1.8.0
 fsspec==2026.3.0
--e git+https://fardin2110058@github.com/fardin2110058/Medical-chatbot.git@c1cc3ca908cd2484f670f073a2f2ab0acc023b5e#egg=Generative_AI_Project
+-e git+https://fardin2110058@github.com/fardin2110058/Medical-chatbot.git@397bfc12ee0496260b16c1c8455793281f8b41ac#egg=Generative_AI_Project
 googleapis-common-protos==1.73.1
 greenlet==3.3.2
 grpcio==1.67.1
@@ -41,7 +41,7 @@ langchain-experimental==0.4.1
 langchain-huggingface==1.2.1
 langchain-mistralai==1.1.2
 langchain-openai==1.1.12
-langchain-pinecone>=0.1.0
+langchain-pinecone==0.2.13
 langchain-text-splitters==1.1.1
 langgraph==1.1.4
 langgraph-checkpoint==4.0.1
